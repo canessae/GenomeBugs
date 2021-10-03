@@ -1,0 +1,86 @@
+
+GenomeBugs: Insect Biodiversity Dynamics from their Genome Sequences
+
+High-Level Project Summary:
+The GenomeBugs project to study the dynamics of insects biodiversity can be a solution 
+to uncover and visualize distinctive patterns embedded in the intrinsic data organization
+of their whole genome sequencing. The goal is to detect, track and predict changes over 
+time along the history of insects' life using, e.g., available resources from NCBI Genome 
+Datasets. GenomeBugs is based on our recent Genomebits open source program to study 
+characteristics of signals from genome sequences of viruses according to their progression 
+along the nucleotide bases position. We aim to determine today's genetic information of 
+insects at a single nucleotide level to pass it to future generations of humans. 
+
+Link to Project "Demo":  https://github.com/canessae/GenomeBugs/blob/main/Presentation-GenomeBugs.pdf
+
+Detailed Project Description:
+Our planet Earth so far as we know is unique and it contains life depicted in millions 
+of creatures of different species. Most classified species on Earth are insects, and 
+our human life depends on their biodiversity, behavior and transformations. A small 
+change in these variables, some species may face extinction and in turn it may affect 
+our natural living environment. Therefore it becomes extremely urgent to combat any 
+loss of life biodiversity for the well-being of all species.
+
+To achieve this goal, we propose to consider quantifying and characterizing the 
+dynamics of insects biodiversity in order to preserve and understand better their Nature.
+
+We aim to "solve" this challenge by implementing GenomeBugs, a tool to study the 
+dynamics of biodiversity by uncovering distinctive patterns embedded in the intrinsic 
+data organization of the genome sequences of insects.
+
+We have developed a open source Graphics User Interface (GUI) to the intrinsic data 
+organization of any genome sequences according to its progression along the nucleotide 
+bases position. This method is based on a finite alternating sum series having 
+independently distributed terms associated with binary (0,1) indicators for the 
+nucleotide bases A,C,T,G. From the view of statistics, such a sequence is equivalent
+to a discrete-valued time series for statistical identification and characterization 
+of data sets as studied in financial series.
+
+The GUI runs under Linux Ubuntu O.S., and it can be useful to study the dynamics of
+insects genome variants using available available resources, e.g., those from NCBI 
+Genome Datasets. 
+
+This goal is important since allows to detect, track and predict changes over time 
+along the history of insects life. If we determine historical genetic information at 
+a single nucleotide level we can preserve it for the benefit of future generations.
+
+Space Agency Data:
+We used open resources and links in our project as for example:
+    The National Center for Biotechnology Information (NCBI) advances science and 
+    health by providing access to biomedical and genomic information. NCBI Datasets 
+    is a new resource that lets you easily gather data from across NCBI databases. 
+    You can find and download gene, transcript, protein and genome sequences, 
+    annotation and metadata: https://www.ncbi.nlm.nih.gov/datasets/
+    The GISAID Initiative which promote the rapid sharing of data from all 
+    influenza viruses and the coronavirus causing COVID-19. This includes 
+    genetic sequence and related clinical and epidemiological data associated 
+    with human viruses, and geographical as well as species-specific data 
+    associated with avian and other animal viruses, to help researchers 
+    understand how viruses evolve and spread during epidemics and pandemics.  
+    We were also inspired by the video of the Nasa space apps challenge 
+    (Seeing the Unseeable - Viewing Bugs from Space)
+    https://honeybeenet.gsfc.nasa.gov/
+    Earth Science Data Systems (ESDS) Program for Genome Evolution in Polar Fishes.
+
+References:
+MOLECULAR EVOLUTION AMONG SEVERAL ORDERS OF INSECTS BASED ON MITOCHONDRIAL DNA ANALYSIS
+  Hong L., PhD Thesis, Univ Simon Fraser (1993)
+A database devoted to the insects of the cultural heritage
+  F. FOHRER, M. MARTINEZ, F. DORKELD, J. Entomological and Acarological Research 43 (2011) 95-98
+THE GLOBAL TAXONOMY INITIATIVE 2020: A STEP-BY-STEP GUIDE FOR DNA BARCODING
+CBD Technical Series No. 94
+Insect genomic resources: Status, availability and future
+  Poonam Chilana, Anu Sharma and Anil Rai, CURRENT SCIENCE, VOL. 102, NO. 4, 25 FEBRUARY 2012
+Uncovering signals from the Coronavirus Genome
+  E. Canessa,    Genes (Basel) 2021 Jun 25;12(7):973. doi: 10.3390/genes12070973.   
+Best Practices in Insect Genome Sequencing: What Works and What Doesn’t
+ Stephen Richards and Shwetha C. Murali, Curr Opin Insect Sci. 2015 February 1; 7: 1–7. 
+ doi:10.1016/j.cois.2015.02.013
+Insights into the genomic evolution of insects from cricket genomes
+  Guillem Ylla et al. COMMUNICATIONS BIOLOGY | (2021) 4:733 | 
+  https://doi.org/10.1038/s42003-021-02197-9 | www.nature.com/commsbio
+
+Tags:
+#GenomeBugs, #genomebits, #DNA, #genome, #diversity, #Nature, #Planet, #software, 
+#Insects, #Bugs, #NASASpaceApps2021, #signal ,#Linux, #creativity, #awareness, #Better-world
+
